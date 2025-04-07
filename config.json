@@ -9,7 +9,7 @@
     "abbreviate": false,
     "synthetic_generation": {
       "min_compositions": 2,
-      "num_patients": 1000 
+      "num_patients": 10000 
     },
     "search_config": {
       "search_paths": [
