@@ -6,8 +6,6 @@ import uuid
 import certifi
 from pymongo import MongoClient, InsertOne
 
-os.environ["MONGO_URI"]="mongodb+srv://carlosalonso:admin1234@basicinitialtests.0asff.mongodb.net/"
-
 # ----------------------------
 # CONFIGURATION & UTILITIES
 # ----------------------------
